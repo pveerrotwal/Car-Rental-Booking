@@ -1,7 +1,7 @@
 # Rent-a-Car-Management-System
-It is a semester project for Object Oriented Programming written in java. (a mini Project)
+•	This is a web-based system that allow customer to register and Booking car online and for the company to effectively manage their car rental business. 
 
-Username: admin
-Password: 123
+• Uses JAVA as primary language and JDBC for database connectivity.
 
-NOTE: I'M NO LONGER MAINTAINING THIS REPO PLEASE USE IT ON YOUR OWN EFFORTS
+
+•	Tech stack used : JAVA, Java Swing, AWT, MySQL, JDBC, Apache NetBeans, etc. used to design the webapp.
